@@ -35,6 +35,7 @@ Catálogo de todas las páginas de la wiki, por categoría. Se actualiza en cada
 - [Rol femenino](conceptos/rol-femenino.md) — concepto central de la monografía, dimensiones de análisis.
 - [Contexto histórico de las obras](conceptos/contexto-historico-de-las-obras.md) — Revolución mexicana vs. guerra bipartidista colombiana.
 - [ODS 4 y 5](conceptos/ods-4-y-5.md) — Objetivos de Desarrollo Sostenible que respaldan la investigación.
+- [Realismo mágico](conceptos/realismo-magico.md) — dispositivo narrativo central en Como agua para chocolate; ausente hasta ahora en Las travesías.
 
 ## Monografía (estado del proyecto)
 

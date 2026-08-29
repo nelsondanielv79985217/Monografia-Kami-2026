@@ -36,9 +36,10 @@ la protagonista, nace por esta razón condenada a renunciar al amor de
 la hermana mayor de Tita, [Rosaura](../personas/rosaura.md), solo para poder
 permanecer cerca de ella.
 
-La novela usa un dispositivo de realismo mágico: las emociones de Tita se
-transmiten literalmente a través de la comida que cocina, afectando de forma
-sobrenatural a quienes la consumen. Ejemplos verificados en el texto:
+La novela usa un dispositivo de [realismo mágico](../conceptos/realismo-magico.md):
+las emociones de Tita se transmiten literalmente a través de la comida que
+cocina, afectando de forma sobrenatural a quienes la consumen. Ejemplos
+verificados en el texto:
 
 - En el pastel de la boda de Pedro y Rosaura, las lágrimas de Tita provocan
   que todos los invitados sean invadidos por una nostalgia y melancolía

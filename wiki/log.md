@@ -280,3 +280,18 @@ mágico" aparece como concepto significativo en 3 páginas
 página propia en `conceptos/` — candidato a nueva página si se considera
 relevante. `conceptos/ods-4-y-5.md` sigue con la nota abierta de si debería
 vivir en `monografia/` en vez de `conceptos/` (ver esa página).
+
+## [2026-08-28] ingest | conceptos/realismo-magico.md (a pedido del usuario)
+
+Creada la página pendiente del LINT anterior. Sintetiza lo ya verificado en
+`obras/como-agua-para-chocolate.md` y `personas/tita.md` (las emociones de
+Tita transmitidas a través de la comida: el pastel de la boda, las
+codornices en pétalos de rosas) y lo aportado por
+`bibliografia/la-identidad-femenina-en-cuentos-de-eva-luna.md` (Post-Boom,
+Isabel Allende). Se agrega una lectura propia — marcada explícitamente como
+`[incierto]` por no venir de ninguna fuente — que conecta el dispositivo
+mágico con el encierro de Tita en la cocina, cruzando con
+`bibliografia/las-topografias-de-la-casa.md`. Se deja registrado que no se
+ha encontrado realismo mágico en la lectura hecha hasta ahora de
+*Las travesías*. Enlazada desde las tres páginas que ya mencionaban el
+concepto y desde `index.md`.

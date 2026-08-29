@@ -27,7 +27,7 @@ no se atreve a desafiarla abiertamente al inicio de la novela.
 
 ## Don mágico: la cocina como canal emocional
 
-El eje de realismo mágico de la novela: las emociones de Tita se transmiten
+El eje de [realismo mágico](../conceptos/realismo-magico.md) de la novela: las emociones de Tita se transmiten
 literalmente a quienes comen su comida. En la boda de Pedro y
 [Rosaura](rosaura.md), sus lágrimas en el pastel provocan una ola de
 nostalgia y un vómito colectivo entre los invitados. En el capítulo
