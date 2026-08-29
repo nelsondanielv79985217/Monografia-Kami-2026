@@ -295,3 +295,16 @@ mágico con el encierro de Tita en la cocina, cruzando con
 ha encontrado realismo mágico en la lectura hecha hasta ahora de
 *Las travesías*. Enlazada desde las tres páginas que ya mencionaban el
 concepto y desde `index.md`.
+
+## [2026-08-28] reorganización | ods-4-y-5.md movida de conceptos/ a monografia/
+
+A pedido del usuario, resuelta la nota pendiente del LINT: `ods-4-y-5.md` se
+movió de `conceptos/` a `monografia/` con `git mv` (conserva historial).
+Razón: es contenido metodológico/de justificación del propio proyecto (por
+qué la autora eligió estos ODS), no un concepto teórico con respaldo
+bibliográfico como el resto de `conceptos/`. Actualizado su link interno a
+`rol-femenino.md` (ahora `../conceptos/rol-femenino.md`), su categoría, y
+las referencias en `index.md`, `monografia/anteproyecto.md` y `CLAUDE.md`
+(que ya no cita ODS como ejemplo de `conceptos/`). Las menciones de la ruta
+vieja en entradas anteriores de este log no se editan, por ser registro
+histórico de dónde estaba el archivo en ese momento.

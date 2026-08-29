@@ -12,7 +12,7 @@ Resumen · Introducción · Justificación · Planteamiento del problema (títul
 investigativo, situación problema, pregunta problema) · Hipótesis (aparece en
 la tabla de contenido, **[incierto]** — no se encontró contenido desarrollado
 en el cuerpo del documento) · Objetivos (general y específicos) · Objetivos de
-Desarrollo Sostenible ([ODS 4 y 5](../conceptos/ods-4-y-5.md)) · Enfoque ·
+Desarrollo Sostenible ([ODS 4 y 5](ods-4-y-5.md)) · Enfoque ·
 Marco teórico · Bibliografía.
 
 ## Título investigativo — tres formulaciones (parcialmente resuelto)

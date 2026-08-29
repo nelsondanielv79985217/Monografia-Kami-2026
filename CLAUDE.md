@@ -42,9 +42,11 @@ wiki/
   obras/            — páginas de obras literarias analizadas
   personas/         — autores, teóricas, personajes, la estudiante, el asesor
   conceptos/        — categorías de análisis y marco teórico (rol femenino,
-                       autonomía, identidad, contexto histórico, ODS, etc.)
+                       autonomía, identidad, contexto histórico, realismo
+                       mágico, etc.) — solo conceptos con respaldo
+                       bibliográfico, no justificaciones propias del proyecto
   monografia/        — estado del anteproyecto en sí: estructura, objetivos,
-                       alertas metodológicas abiertas
+                       ODS que lo respaldan, alertas metodológicas abiertas
   bibliografia/      — una página por fuente académica de `Bibliografia/`,
                        con resumen y datos de citación
 ```
