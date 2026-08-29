@@ -221,3 +221,62 @@ capítulo inicial) y 15 como fuentes académicas/literarias en
 completa de los capítulos restantes de ambas novelas centrales, y una pasada
 de LINT para revisar contradicciones, páginas huérfanas y cross-references
 faltantes en el conjunto ya construido.
+
+## [2026-08-28] LINT | primera pasada completa sobre las 39 páginas de contenido
+
+**Contradicción corregida (error propio, no de una fuente)**: en
+`obras/como-agua-para-chocolate.md` se había escrito que la paternidad
+biológica de Esperanza era ambigua/incierta. Se releyó el pasaje original
+del PDF (nacimiento prematuro de Esperanza, histerectomía de urgencia de
+Rosaura) y se confirmó, sin ambigüedad, que Esperanza es hija biológica de
+Rosaura y Pedro — como ya decían correctamente `personas/esperanza.md`,
+`personas/rosaura.md` y `personas/pedro-muzquiz.md`. Corregido el párrafo.
+
+**Afirmaciones desactualizadas corregidas**:
+- `conceptos/rol-femenino.md` tenía en su pie de página un `[incierto]`
+  diciendo que el marco teórico de Beauvoir "no fue verificado aún", pese a
+  que esa verificación ya se había hecho y documentado más arriba en la
+  misma página. Corregido.
+- `monografia/alertas-metodologicas.md`: el título de la página decía
+  "(estado: abiertas)" pese a que el punto 4 está refutado. Cambiado a
+  "(6 abiertas, 1 refutada)".
+- `personas/simone-de-beauvoir.md` citaba "21.422 líneas extraídas" para
+  `El segundo sexo.pdf`; el conteo real (verificado con `wc -l`) es ~24.000
+  — la cifra original venía de un conteo de PowerShell impreciso. Corregido
+  a una cifra aproximada.
+- `personas/maria-kamila-vega-correa.md` presentaba un título de la
+  monografía como si fuera definitivo y su nota `[incierto]` solo mencionaba
+  "dos formulaciones", desactualizada frente a las tres ya documentadas en
+  `monografia/anteproyecto.md`. Corregida para apuntar a la resolución
+  completa.
+
+**9 páginas huérfanas encontradas** (sin ningún link entrante desde otra
+página de contenido, solo listadas en `index.md`) — todas reparadas con
+cross-references reales:
+`bibliografia/el-segundo-sexo.md`,
+`bibliografia/cicatrices-sociales-en-la-novela-los-divinos.md`,
+`bibliografia/literatura-de-crimenes-femenina-y-feminista-en-colombia.md`
+(estas dos últimas se mencionaban mutuamente solo como ruta de archivo cruda
+en backticks, no como link de wiki — corregido a link real),
+`bibliografia/el-cuento-de-la-criada-simbolos-y-mujeres.md`,
+`bibliografia/escritura-de-mujeres-escritura-de-las-diferencias.md`,
+`bibliografia/la-identidad-femenina-en-cuentos-de-eva-luna.md`,
+`bibliografia/la-validacion-literaria-identidad-colectiva.md`,
+`bibliografia/las-orquideas-rojas-de-shanghai.md`,
+`bibliografia/narrativas-y-experiencias-conflicto-armado-mujeres-campesinas.md`.
+Se agregó una sección "Otras fuentes de la bibliografía relacionadas con
+este eje" en `conceptos/rol-femenino.md` para enlazarlas desde un lugar con
+sentido temático real, y se enlazó `El segundo sexo` desde
+`personas/simone-de-beauvoir.md`.
+
+**Verificaciones sin hallazgos**: no se encontraron links rotos (rutas
+relativas a archivos inexistentes) en ninguna de las 39 páginas. `index.md`
+lista correctamente las 39 páginas de contenido.
+
+**Pendiente de decisión del usuario (no corregido de oficio)**: "realismo
+mágico" aparece como concepto significativo en 3 páginas
+(`obras/como-agua-para-chocolate.md`, `personas/tita.md`,
+`bibliografia/la-identidad-femenina-en-cuentos-de-eva-luna.md`) sin tener
+página propia en `conceptos/` — candidato a nueva página si se considera
+relevante. `conceptos/ods-4-y-5.md` sigue con la nota abierta de si debería
+vivir en `monografia/` en vez de `conceptos/` (ver esa página).

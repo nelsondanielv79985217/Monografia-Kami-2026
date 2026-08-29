@@ -3,20 +3,23 @@
 **Categoría:** persona (autora de la monografía)
 
 Estudiante del Colegio Miguel Antonio Caro (COLMAC), Bogotá D.C. Autora de la
-monografía investigativa "La representación del rol femenino en las obras
-literarias contemporáneas 'Como agua para chocolate' y 'Las travesías': un
-análisis comparativo" (2026).
+monografía investigativa sobre la representación del rol femenino en
+"Como agua para chocolate" y "Las travesías" (2026).
 
-## Título investigativo (versión de esta fuente)
+**[incierto]**: el título definitivo de la monografía no está resuelto —
+existen tres formulaciones distintas en tensión entre sí (portada, sección
+"Título investigativo" de la plantilla, y la reformulación del asesor en la
+revisión posterior). Ver el detalle completo en
+[Estado del anteproyecto](../monografia/anteproyecto.md#título-investigativo--tres-formulaciones-parcialmente-resuelto)
+y [Alertas metodológicas, punto 7](../monografia/alertas-metodologicas.md#7-tensión-entre-el-título-investigativo-y-la-instrucción-de-incluir-la-población).
+
+## Título investigativo (versión de la portada de esta fuente)
 
 *"Influencia de la literatura contemporánea en la percepción del rol de la
 mujer: análisis comparativo de Como agua para chocolate y Las travesías en
 estudiantes de 9.º y 10.º del Colegio Miguel Antonio Caro."*
 
-**[incierto]**: este título difiere del que aparece más adelante en el mismo
-documento, en la sección "Título investigativo" (ver
-[monografia/anteproyecto.md](../monografia/anteproyecto.md)) — parece haber
-dos formulaciones del título coexistiendo en la plantilla.
+Esta es solo una de las tres formulaciones — ver la nota arriba.
 
 ## Objetivo general
 

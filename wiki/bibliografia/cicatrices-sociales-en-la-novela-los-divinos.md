@@ -29,7 +29,7 @@ prolongada deja en el tejido comunitario, más allá de las víctimas directas.
 ## Relevancia para la monografía
 
 Analiza la misma novela que
-`Bibliografia/Literatura De Crimenes Femenina Y Feminista En Colombia.pdf`
+[Literatura de crímenes femenina y feminista en Colombia](literatura-de-crimenes-femenina-y-feminista-en-colombia.md)
 (*Los Divinos*, Laura Restrepo). Aporta un marco teórico sobre violencia de
 género y trauma social en la narrativa colombiana contemporánea —
 complementario, pero de una obra distinta a las dos centrales de la

@@ -1,4 +1,4 @@
-# Alertas metodológicas (estado: abiertas)
+# Alertas metodológicas (6 abiertas, 1 refutada)
 
 **Categoría:** monografía (estado del proyecto)
 

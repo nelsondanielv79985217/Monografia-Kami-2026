@@ -74,10 +74,11 @@ sobrenatural a quienes la consumen. Ejemplos verificados en el texto:
 ## Arco de la trama (verificado en el texto)
 
 Tita y Pedro consuman su amor en secreto durante el matrimonio de este con
-Rosaura; Tita queda embarazada de Esperanza en algún punto no completamente
-verificado en esta lectura (**[incierto]**: el texto es ambiguo sobre la
-paternidad biológica de Esperanza — se la trata en el relato como hija de
-Pedro y Rosaura, sin que se haya leído una aclaración explícita). Rosaura,
+Rosaura. Esperanza es hija biológica de Rosaura y Pedro, no de Tita: nace
+prematura tras la muerte de la abuela materna, y el parto se complica
+(placenta accreta) al punto de requerir una histerectomía de urgencia que
+deja a Rosaura estéril — confirmado textualmente en el capítulo intermedio
+de la novela, sin ambigüedad. Rosaura,
 enferma de graves problemas digestivos (flatulencia, mal aliento, obesidad),
 se opone ferozmente a que su hija Esperanza rompa la tradición familiar
 casándose con Alex Brown; muere en plena disputa "a causa de grandes

@@ -61,10 +61,25 @@ La comparación busca mostrar que el rol femenino no puede interpretarse desde
 una única perspectiva, sino que adquiere significados distintos según el
 contexto social, cultural y familiar.
 
+## Otras fuentes de la bibliografía relacionadas con este eje
+
+No analizan directamente las dos obras centrales, pero aportan marco teórico
+o contexto general sobre representación literaria del rol femenino y
+violencia de género:
+
+- [El cuento de la criada, los símbolos y las mujeres](../bibliografia/el-cuento-de-la-criada-simbolos-y-mujeres.md) — símbolos femeninos en la distopía de Atwood.
+- [Escritura de mujeres, escritura de las diferencias](../bibliografia/escritura-de-mujeres-escritura-de-las-diferencias.md) — écriture féminine en la literatura latinoamericana.
+- [La identidad femenina en los Cuentos de Eva Luna](../bibliografia/la-identidad-femenina-en-cuentos-de-eva-luna.md) — identidad femenina y realismo mágico en Isabel Allende.
+- [La validación literaria a través de una identidad colectiva](../bibliografia/la-validacion-literaria-identidad-colectiva.md) — generaciones de la crítica literaria feminista.
+- [Las orquídeas rojas de Shanghai](../bibliografia/las-orquideas-rojas-de-shanghai.md) — violencia sexual contra mujeres en contexto bélico (Corea/Japón).
+- [Narrativas y experiencias frente al conflicto armado de las mujeres campesinas](../bibliografia/narrativas-y-experiencias-conflicto-armado-mujeres-campesinas.md) — testimonio directo de mujeres en conflicto armado colombiano.
+- [Literatura de crímenes femenina y feminista en Colombia](../bibliografia/literatura-de-crimenes-femenina-y-feminista-en-colombia.md) y [Cicatrices sociales en la novela Los Divinos](../bibliografia/cicatrices-sociales-en-la-novela-los-divinos.md) — ambas analizan *Los Divinos* de Laura Restrepo.
+- [Violencia de género en instituciones de educación superior (Rodríguez)](../bibliografia/violencia-de-genero-instituciones-educacion-superior-rodriguez.md) y [Violencias basadas en género en la Educación Superior (Penilla)](../bibliografia/violencias-basadas-en-genero-educacion-superior-penilla.md) — contexto para el componente cuantitativo (encuesta) de la monografía.
+
 ## Referencias
 
 - Mencionado en `Monografia Maria Kamila vega version 1.docx` (guía de
   estructura, no fuente académica — ver [CLAUDE.md](../../CLAUDE.md)).
-- **[incierto — pendiente de verificar contra fuente primaria]**: el marco
-  teórico de Beauvoir no fue verificado aún contra el PDF de *El segundo
-  sexo* en `Bibliografia/`.
+- El marco teórico de Beauvoir fue verificado directamente contra
+  [El segundo sexo](../bibliografia/el-segundo-sexo.md) — ver
+  [Simone de Beauvoir](../personas/simone-de-beauvoir.md).

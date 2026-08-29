@@ -35,8 +35,8 @@ señalado como contexto de [Las travesías](../obras/las-travesias.md).
 ## Relevancia para la monografía
 
 Conecta directamente con
-`Bibliografia/Cicatrices sociales en la novela Los Divinos de Laura
-Restrepo.pdf` (misma novela analizada, *Los Divinos*). Aporta marco teórico
+[Cicatrices sociales en la novela Los Divinos](cicatrices-sociales-en-la-novela-los-divinos.md)
+(misma novela analizada, *Los Divinos*). Aporta marco teórico
 sobre representación literaria de la violencia de género en Colombia,
 paralelo temático al eje de
 [rol femenino](../conceptos/rol-femenino.md) y al contexto de La Violencia

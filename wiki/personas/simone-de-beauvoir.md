@@ -35,10 +35,13 @@ escrita durante los años 1948-1949". Se buscó explícitamente en el archivo
 la observación de la revisión sobre este vacío queda **confirmada**, no
 refutada (a diferencia del punto 4 sobre *Las travesías*).
 
+Ver la página de bibliografía para estructura completa y datos de citación:
+[El segundo sexo](../bibliografia/el-segundo-sexo.md).
+
 ## Referencias
 
 - Fuente primaria: `Bibliografia/El segundo sexo.pdf` (texto completo,
-  21.422 líneas extraídas, citas verificadas directamente).
+  ~24.000 líneas extraídas, citas verificadas directamente).
 - Mencionada también en `Monografia Maria Kamila vega version 1.docx` y
   `Revision_Anteproyecto_Kamila.docx` / `Revision_Introduccion_Justificacion_Objetivos.docx`
   (guía de estructura, no fuente académica — ver [CLAUDE.md](../../CLAUDE.md)).
