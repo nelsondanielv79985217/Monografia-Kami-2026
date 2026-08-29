@@ -308,3 +308,91 @@ las referencias en `index.md`, `monografia/anteproyecto.md` y `CLAUDE.md`
 (que ya no cita ODS como ejemplo de `conceptos/`). Las menciones de la ruta
 vieja en entradas anteriores de este log no se editan, por ser registro
 histórico de dónde estaba el archivo en ese momento.
+
+## [2026-08-28] profundización | Como agua para chocolate.pdf — lectura de los 12 capítulos completos
+
+A pedido del usuario, se leyó la novela completa (antes solo se habían leído
+fragmentos de los capítulos I, II, III, V y el final). Se encontraron varias
+correcciones importantes sobre lo que ya estaba escrito en la wiki:
+
+- **Corrección mayor**: el desenlace no es que Tita y Pedro "finalmente
+  puedan estar juntos" recién tras la muerte de Rosaura — llevaban veinte
+  años en una relación secreta con un pacto tácito de discreción con
+  Rosaura, desde la misma noche en que murió Mamá Elena.
+- **Corrección mayor**: Pedro no muere quemado en el incendio final — muere
+  de la intensidad de su última unión con Tita (el corazón se le detiene);
+  el incendio lo causan los cuerpos de ambos ya después de que Tita, para
+  reencontrarse con él, come una caja de cerillos siguiendo la teoría del
+  alma que John Brown le explicó años antes.
+- **Hallazgo mayor no documentado antes**: tras la muerte de Mamá Elena,
+  Tita descubre que esta tuvo un amor prohibido (José Treviño, asesinado
+  antes de poder fugarse con ella) y fue obligada a casarse con Juan De la
+  Garza — y que Gertrudis es hija biológica de José Treviño, no de Juan De
+  la Garza. Esto reencuadra a Mamá Elena como víctima, una generación
+  antes, del mismo tipo de control familiar sobre el matrimonio que ella
+  impone a sus hijas.
+- **Hallazgo mayor**: Tita se compromete con John Brown y usa su anillo,
+  pero rompe el compromiso a favor de Pedro; John nunca se casó con nadie
+  más. Corregido en `personas/tita.md` y `personas/john-brown.md`.
+
+Páginas reescritas con el arco completo: `obras/como-agua-para-chocolate.md`,
+`personas/tita.md`, `personas/pedro-muzquiz.md`, `personas/mama-elena.md`,
+`personas/rosaura.md`, `personas/john-brown.md`, `personas/esperanza.md`,
+`personas/gertrudis.md`, `conceptos/realismo-magico.md` (catálogo ampliado a
+8 episodios: pastel de bodas, codornices, lactancia sobrenatural de Tita,
+fantasma de "Luz del amanecer", fantasma de Mamá Elena y embarazo
+psicosomático, tornado de gallinas, chiles en nogada finales, muerte de
+Tita y Pedro).
+
+Páginas nuevas: `personas/roberto.md` (primer hijo de Pedro y Rosaura,
+amamantado por Tita, muere niño), `personas/luz-del-amanecer.md` (abuela
+kikapú de John Brown).
+
+**[incierto]**: algunos pasajes de transición menores (el detalle exacto de
+cuándo Tita rompe su compromiso con John) no se verificaron palabra por
+palabra — la reconstrucción es fiel a los 12 capítulos leídos, pero no es
+una relectura exhaustiva de cada línea.
+
+## [2026-08-28] profundización | Las travesías Gilmer M.pdf — lectura de los 7 capítulos completos
+
+A pedido del usuario, se leyó la novela completa (antes solo se había leído
+el inicio de los capítulos 1 y 2). Hallazgo estructural mayor: la novela
+cubre casi un siglo de conflicto en el norte de Antioquia — de las guerras
+liberal-conservadoras de inicios del siglo XX, pasando por La Violencia
+bipartidista de mediados de siglo (con atrocidades históricas reales
+documentadas explícitamente, como el "corte de florero"), hasta la
+guerrilla y el paramilitarismo de fin de siglo, cerrando con una
+recreación explícita de la masacre real de El Aro (Antioquia, 1997).
+
+Correcciones importantes sobre lo que ya estaba escrito:
+
+- Carolina es hija de **Mercedes**, no de Carmela (la wiki no lo tenía mal
+  explícitamente, pero quedó ambiguo — ahora aclarado).
+- **Carmela no ama a Cruz María**: lo seduce deliberadamente por un rencor
+  de infancia hacia Mercedes (favoritismo de la abuela que las crió), no
+  por atracción romántica genuina — corregido en su página.
+- Hallazgo mayor no documentado antes: **Mercedes funda una escuela
+  exclusivamente para niñas**, un gesto de agencia feminista explícito
+  ("este era un mundo de hombres... las mujeres necesitaban más la
+  instrucción para equilibrar la carga").
+
+Páginas reescritas con el arco completo: `obras/las-travesias.md`,
+`personas/mercedes-las-travesias.md`, `personas/carmela-las-travesias.md`,
+`personas/carolina-las-travesias.md`, `conceptos/contexto-historico-de-las-obras.md`
+(arco histórico completo de tres eras), `conceptos/rol-femenino.md`
+(comparación ampliada entre las dos obras).
+
+Páginas nuevas: `personas/raquel-las-travesias.md` (violada y asesinada por
+"pájaros"), `personas/cruz-maria-garcia.md`, `personas/ismael-las-travesias.md`
+("Revancha"), `personas/gavino.md` (esposo violento de Carolina),
+`personas/evelio-jaramillo.md` (seduce y abandona a Raquel).
+
+**[incierto]**: por volumen (13.910 líneas), los capítulos 3, 5, 6 y 7 se
+leyeron con muestreo amplio (varios pasajes largos por capítulo) en vez de
+línea por línea completa, a diferencia de los capítulos 1 y 2 que sí se
+leyeron íntegros. Personajes secundarios de esos capítulos (Abraham, Fidel,
+Esther, Fidelito, Martín, Manuel, Jorge, Jairo, Crucito) se mencionan en
+`obras/las-travesias.md` y `personas/mercedes-las-travesias.md` pero no
+tienen página propia — se priorizaron los personajes femeninos y los
+directamente relevantes para el eje de la monografía, dado el volumen total
+de personajes de la novela.

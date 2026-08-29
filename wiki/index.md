@@ -4,8 +4,8 @@ Catálogo de todas las páginas de la wiki, por categoría. Se actualiza en cada
 
 ## Obras
 
-- [Como agua para chocolate](obras/como-agua-para-chocolate.md) — novela de Laura Esquivel, ambientada en la Revolución mexicana. Fuente primaria verificada.
-- [Las travesías](obras/las-travesias.md) — novela de Gilmer Mesa, ambientada en la guerra bipartidista colombiana (norte de Antioquia). Fuente primaria verificada — texto completo, no solo reseña.
+- [Como agua para chocolate](obras/como-agua-para-chocolate.md) — novela de Laura Esquivel, ambientada en la Revolución mexicana. Los 12 capítulos leídos íntegramente.
+- [Las travesías](obras/las-travesias.md) — novela de Gilmer Mesa; tres generaciones de violencia política en el norte de Antioquia, de La Violencia a la masacre de El Aro. Los 7 capítulos leídos.
 
 ## Personas
 
@@ -23,18 +23,25 @@ Catálogo de todas las páginas de la wiki, por categoría. Se actualiza en cada
   - [Esperanza](personas/esperanza.md) — hija de Pedro y Rosaura, rompe la tradición familiar casándose con Alex Brown.
   - [Nacha](personas/nacha.md) — cocinera del rancho, madre adoptiva de Tita.
   - [Chencha](personas/chencha.md) — sirvienta de la casa.
-  - [John Brown](personas/john-brown.md) — médico, le propone matrimonio a Tita.
+  - [John Brown](personas/john-brown.md) — médico, se compromete con Tita; ella rompe el compromiso.
   - [Alex Brown](personas/alex-brown.md) — hijo de John Brown, se casa con Esperanza.
+  - [Roberto](personas/roberto.md) — primer hijo de Pedro y Rosaura, amamantado sobrenaturalmente por Tita, muere niño.
+  - [Luz del amanecer](personas/luz-del-amanecer.md) — abuela kikapú de John Brown, curandera, se aparece como fantasma.
 - **Personajes de Las travesías:**
-  - [Mercedes](personas/mercedes-las-travesias.md) — esposa de Cruz María, huérfana de guerra, enfermera del ejército liberal, luego viuda al frente de la finca.
-  - [Carmela](personas/carmela-las-travesias.md) — hermana de Mercedes, amante secreta de Cruz María.
-  - [Carolina](personas/carolina-las-travesias.md) — hija de Mercedes, cae en demencia tras el asesinato de su padre.
+  - [Cruz María García](personas/cruz-maria-garcia.md) — fundador de la finca, bígamo de facto, asesinado por "pájaros".
+  - [Mercedes](personas/mercedes-las-travesias.md) — esposa de Cruz María, funda una escuela solo para niñas, matriarca a través de generaciones de violencia.
+  - [Carmela](personas/carmela-las-travesias.md) — hermana de Mercedes; lo seduce por rencor de infancia, no por amor.
+  - [Carolina](personas/carolina-las-travesias.md) — hija de Mercedes, la favorita de su padre; demencia, matrimonio violento, muere presa.
+  - [Raquel](personas/raquel-las-travesias.md) — hija de Mercedes, seducida y abandonada por Evelio Jaramillo, violada y asesinada.
+  - [Ismael](personas/ismael-las-travesias.md) — hijo de Carmela, líder guerrillero "Revancha".
+  - [Gavino](personas/gavino.md) — esposo violento de Carolina, obsesionado con el oro.
+  - [Evelio Jaramillo](personas/evelio-jaramillo.md) — terrateniente oportunista, seduce y abandona a Raquel.
 
 ## Conceptos
 
 - [Rol femenino](conceptos/rol-femenino.md) — concepto central de la monografía, dimensiones de análisis.
-- [Contexto histórico de las obras](conceptos/contexto-historico-de-las-obras.md) — Revolución mexicana vs. guerra bipartidista colombiana.
-- [Realismo mágico](conceptos/realismo-magico.md) — dispositivo narrativo central en Como agua para chocolate; ausente hasta ahora en Las travesías.
+- [Contexto histórico de las obras](conceptos/contexto-historico-de-las-obras.md) — Revolución mexicana vs. casi un siglo de conflicto colombiano (La Violencia a la masacre de El Aro).
+- [Realismo mágico](conceptos/realismo-magico.md) — catálogo completo de 8 episodios en Como agua para chocolate; ausente hasta ahora en Las travesías.
 
 ## Monografía (estado del proyecto)
 

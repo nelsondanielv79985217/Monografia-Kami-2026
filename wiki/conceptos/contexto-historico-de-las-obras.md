@@ -13,12 +13,34 @@ Inicios del siglo XX. Evidencia textual: la tropa revolucionaria llega al
 rancho de la familia De la Garza y se enfrenta a
 [Mamá Elena](../personas/mama-elena.md) (Esquivel, s. f., cap. "V. Mayo").
 
-## Guerra bipartidista colombiana / La Violencia
+## Guerra bipartidista colombiana / La Violencia — y más allá (verificado en el texto completo)
 
-Contexto de [Las travesías](../obras/las-travesias.md). "Localizable en gran
-parte del siglo xx en Colombia, en el marco de la guerra bipartidista"
-(Pareja Díaz, 2024, p. 234); periodo marcado por La Violencia y por la
-colonización de tierras rurales en el norte de Antioquia.
+Contexto de [Las travesías](../obras/las-travesias.md). La novela cubre en
+realidad **casi un siglo completo** de conflicto en el norte de Antioquia,
+no un solo periodo:
+
+1. **Guerras civiles liberal-conservadoras** (fin siglo XIX/inicio XX):
+   contexto de la fundación de la finca por
+   [Cruz María García](../personas/cruz-maria-garcia.md).
+2. **La Violencia bipartidista** (mediados del siglo XX): "pájaros"
+   (sicarios conservadores/"laureanistas") exterminan a familias liberales
+   como los García; la novela documenta explícitamente atrocidades
+   históricas reales de este período, incluido el "corte de florero"
+   (mutilación) — ver la muerte de
+   [Cruz María García](../personas/cruz-maria-garcia.md) y la violación y
+   asesinato de [Raquel](../personas/raquel-las-travesias.md).
+3. **Guerrilla y paramilitarismo** (fin del siglo XX): cultivo de coca,
+   grupos guerrilleros y paramilitares "contrainsurgentes". La novela cierra
+   con una recreación explícita de la **masacre de El Aro** (hecho
+   histórico real, Antioquia, 1997, perpetrada por las AUC), en la que uno
+   de los descendientes de la familia (Manuel) participa como victimario.
+
+**[incierto]**: la cita "localizable en gran parte del siglo xx en Colombia,
+en el marco de la guerra bipartidista" (Pareja Díaz, 2024, p. 234) —tomada
+de una reseña que no está entre los PDFs de `Bibliografia/`— capta solo la
+primera mitad de este arco; la lectura directa de la novela confirma que se
+extiende más allá de la guerra bipartidista, hasta el conflicto
+contemporáneo.
 
 ## Por qué importa para el análisis
 
@@ -32,6 +54,5 @@ sociales de cada narrativa.
 
 - Mencionado en `Monografia Maria Kamila vega version 1.docx` (guía de
   estructura, no fuente académica — ver [CLAUDE.md](../../CLAUDE.md)).
-- **[incierto — pendiente de verificar contra fuente primaria]**: no
-  verificado aún contra los PDFs de `Bibliografia/` (novela de Esquivel,
-  reseña de Pareja Díaz sobre *Las travesías*).
+- Verificado directamente contra `Bibliografia/Como agua para chocolate.pdf`
+  y `Bibliografia/Las travesías Gilmer M.pdf` (textos completos).

@@ -50,12 +50,22 @@ monografía son especialmente aplicables como respaldo teórico adicional:
   matrimonio libre). **[incierto]**: esta lectura es una síntesis propia a
   partir de la fuente primaria, no una interpretación tomada de ninguna
   fuente — pendiente de contrastar con fuentes secundarias académicas.
-- En [Las travesías](../obras/las-travesias.md): por ahora (capítulo 1) se
-  observa un patrón distinto — mujeres marcadas por el desplazamiento y la
-  orfandad bélica, con relaciones familiares atravesadas por el secreto
-  ([Mercedes](../personas/mercedes-las-travesias.md) y
-  [Carmela](../personas/carmela-las-travesias.md)) — a diferencia del
-  encierro doméstico en la novela mexicana.
+- En [Las travesías](../obras/las-travesias.md) (lectura de los 7 capítulos):
+  la vulnerabilidad femenina está ligada estructuralmente a la violencia
+  política, no al encierro doméstico. Se observan varios patrones: orfandad
+  y rivalidad fomentada por la bigamia de un hombre
+  ([Mercedes](../personas/mercedes-las-travesias.md) vs.
+  [Carmela](../personas/carmela-las-travesias.md)); viudez y despojo de
+  tierras tras la violencia política (Mercedes); violencia sexual
+  sistemática como arma de guerra
+  ([Raquel](../personas/raquel-las-travesias.md), violada y asesinada; dos
+  hijas de Carmela, también violadas y mutiladas); locura como respuesta al
+  trauma acumulado ([Carolina](../personas/carolina-las-travesias.md)); y
+  violencia doméstica superpuesta a la violencia política (el matrimonio de
+  Carolina con [Gavino](../personas/gavino.md)). En contraste, Mercedes
+  también encarna agencia femenina concreta: funda una escuela exclusiva
+  para niñas, razonando explícitamente que necesitan más instrucción en "un
+  mundo de hombres".
 
 La comparación busca mostrar que el rol femenino no puede interpretarse desde
 una única perspectiva, sino que adquiere significados distintos según el

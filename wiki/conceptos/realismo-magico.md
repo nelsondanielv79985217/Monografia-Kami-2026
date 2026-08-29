@@ -8,21 +8,53 @@ como una ruptura de la normalidad. Aparece como dispositivo central en
 [Como agua para chocolate](../obras/como-agua-para-chocolate.md) y como
 categoría de análisis en una de las fuentes secundarias de la bibliografía.
 
-## En Como agua para chocolate (verificado en el texto)
+## En Como agua para chocolate (verificado en el texto — lectura de los 12 capítulos)
 
 Las emociones de [Tita](../personas/tita.md) se transmiten literalmente a
-quienes comen su comida, produciendo efectos sobrenaturales:
+quienes comen su comida, produciendo efectos sobrenaturales. Catálogo
+completo de episodios verificados:
 
-- En el pastel de la boda de [Pedro](../personas/pedro-muzquiz.md) y
-  [Rosaura](../personas/rosaura.md) (capítulo "II. Febrero"), las lágrimas
-  de Tita provocan que todos los invitados sean invadidos por una nostalgia
-  y melancolía incontrolables, terminando en un vómito colectivo. Esa misma
-  noche muere [Nacha](../personas/nacha.md).
-- En el capítulo "Codornices en pétalos de rosas" (III. Marzo), un platillo
+- **El pastel de bodas** (cap. "II. Febrero"): las lágrimas de Tita
+  mezcladas en el pastel de la boda de [Pedro](../personas/pedro-muzquiz.md)
+  y [Rosaura](../personas/rosaura.md) provocan que todos los invitados sean
+  invadidos por una nostalgia y melancolía incontrolables, terminando en un
+  vómito colectivo. Esa misma noche muere [Nacha](../personas/nacha.md).
+- **Las codornices en pétalos de rosas** (cap. "III. Marzo"): un platillo
   preparado con rosas que Pedro le regaló a Tita transmite un deseo tan
   intenso que [Gertrudis](../personas/gertrudis.md), al comerlo, se incendia
   de calor corporal, corre desnuda por el campo y es arrebatada a caballo
   por un revolucionario.
+- **La lactancia sobrenatural** (cap. "IV. Abril"): Tita, sin haber estado
+  nunca embarazada, logra amamantar a su sobrino [Roberto](../personas/roberto.md)
+  cuando muere la nodriza que lo alimentaba.
+- **El fantasma de "Luz del amanecer"** (cap. "VI. Junio"): la abuela
+  fallecida de [John Brown](../personas/john-brown.md), curandera kikapú, se
+  le aparece a Tita en el laboratorio de John, cocinando en silencio junto a
+  ella, antes de que sepa quién es.
+- **El fantasma de Mamá Elena y el embarazo psicosomático** (cap. "IX–X"):
+  tras su muerte, el fantasma de [Mamá Elena](../personas/mama-elena.md)
+  atormenta a Tita; mientras la persigue, Tita presenta síntomas de un
+  embarazo que resulta psicosomático — cede en el instante en que Tita
+  desafía verbalmente al fantasma y lo hace desvanecerse. El espíritu,
+  furioso, hace estallar un quinqué que quema gravemente a Pedro.
+- **El tornado de gallinas** (cap. "XI. Noviembre"): una pelea entre
+  gallinas, desatada por la tensión emocional de una discusión entre Tita y
+  Rosaura, se convierte en un remolino sobrenatural que se traga a la
+  mayoría de las aves y arranca a Tita del suelo.
+- **Los chiles en nogada finales** (cap. "XII. Diciembre"): en la boda de
+  [Esperanza](../personas/esperanza.md) y [Alex Brown](../personas/alex-brown.md),
+  el platillo de Tita provoca en todos los invitados el mismo efecto
+  afrodisíaco que las codornices del capítulo III, y la fiesta se disuelve
+  en una desbandada de deseo colectivo.
+- **La muerte de Tita y Pedro** (cap. "XII", desenlace): retomando la teoría
+  de los "cerillos" que [John Brown](../personas/john-brown.md) le explicó
+  a Tita en el capítulo VI (cada persona lleva cerillos internos que solo el
+  aliento de la persona amada enciende; si se encienden todos de golpe, el
+  alma cruza un túnel luminoso hacia su origen), Pedro muere de la
+  intensidad de su unión final con Tita. Ella se come una caja de cerillos
+  para revivir sus recuerdos y seguirlo; los cuerpos incandescentes de ambos
+  incendian la colcha que Tita tejió durante años, consumiendo el rancho
+  entero.
 
 Este dispositivo convierte la cocina —el espacio al que Tita queda relegada
 por la [tradición familiar](rol-femenino.md)— en el único canal disponible
