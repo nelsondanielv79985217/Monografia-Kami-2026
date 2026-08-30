@@ -497,3 +497,26 @@ existente (no había ninguno disponible), sino con la librería `docx` de
 Node.js siguiendo una estructura académica estándar — el formato visual
 (fuente, tamaños, portada) es una propuesta razonable, no una plantilla
 oficial del colegio.
+
+## [2026-08-30] entrega | prompt-encuesta-forms.md
+
+A pedido del usuario: se redactó un prompt listo para pegar en un generador
+de Google Forms, con la encuesta completa (20 preguntas en 4 secciones)
+para el componente cuantitativo de la monografía. Las preguntas se
+diseñaron ancladas directamente en las seis dimensiones de análisis de
+[Rol femenino](conceptos/rol-femenino.md) y en dos situaciones concretas
+verificadas en la lectura directa de las novelas (la tradición que prohíbe
+casarse a la hija menor en *Como agua para chocolate*; la escuela solo para
+niñas que funda Mercedes en *Las travesías*). Se evitó deliberadamente
+referenciar los episodios de violencia sexual de *Las travesías* por
+tratarse de una encuesta a menores de edad.
+
+Entregable: `prompt-encuesta-forms.md` (raíz del repo). Página nueva:
+`monografia/encuesta.md`, documentando el instrumento y su estado (redactado,
+no aplicado todavía). Actualizada `monografia/anteproyecto.md` con nota
+apuntando a la versión 2 del documento y a esta encuesta.
+
+**[incierto]**: el formulario de Google Forms en sí no fue creado por este
+asistente — el usuario debe pegar el prompt en la herramienta de generación
+de formularios de su preferencia y aplicarlo. El análisis de resultados
+(porcentajes, tablas, gráficos) queda pendiente hasta que se aplique.

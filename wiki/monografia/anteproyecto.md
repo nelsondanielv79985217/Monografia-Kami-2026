@@ -6,6 +6,15 @@ Estado de la plantilla `Monografia Maria Kamila vega version 1.docx`, tal como
 se encuentra en el repo. Autora:
 [María Kamila Vega Correa](../personas/maria-kamila-vega-correa.md).
 
+**Actualización (2026-08-30)**: esta página describe el estado de la
+**versión 1** del documento. Ya existe una **versión 2**
+(`Monografia Maria Kamila Vega version 2.docx`, raíz del repo) que resuelve
+varios de los puntos descritos abajo (título, marco teórico, bibliografía) —
+ver [Alertas metodológicas](alertas-metodologicas.md) para el detalle punto
+por punto de qué se resolvió y qué sigue abierto. También se redactó el
+instrumento para el componente cuantitativo — ver
+[Encuesta a estudiantes de 9.° y 10.°](encuesta.md).
+
 ## Estructura presente en el documento
 
 Resumen · Introducción · Justificación · Planteamiento del problema (título
