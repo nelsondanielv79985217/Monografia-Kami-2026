@@ -435,3 +435,32 @@ de la revelación sobre José Treviño/Gertrudis entre `personas/mama-elena.md`,
 `personas/gertrudis.md`, `personas/tita.md` y `obras/como-agua-para-chocolate.md`
 — sin contradicciones. Se verificó que Carolina se identifica consistentemente
 como hija de Mercedes (no de Carmela) en todas las páginas que la mencionan.
+
+## [2026-08-28] LINT del schema | CLAUDE.md contra la práctica real
+
+A pedido del usuario, se auditó `CLAUDE.md` (no el contenido de `wiki/`)
+contra el estado real del repo. Verificado sin hallazgos: estructura de
+carpetas (`obras/`, `personas/`, `conceptos/`, `monografia/`,
+`bibliografia/`), convención de nombres de archivo (`kebab-case-sin-acentos`,
+verificado en las 48 páginas), conteo de fuentes (17 PDFs, 3 `.docx`), y
+orden de categorías en `index.md`.
+
+**Dos desalineaciones reales encontradas y corregidas** (la práctica había
+evolucionado y el texto del schema se quedó atrás):
+
+1. La línea `**Categoría:**` del schema definía un enum plano de 5 palabras
+   sin tilde (`obra | persona | concepto | monografia | bibliografia`), pero
+   las 48 páginas usan consistentemente la palabra con tilde más una
+   aclaración entre paréntesis (`persona (personaje)`,
+   `monografía (estado del proyecto)`, etc.). Se actualizó el schema para
+   documentar la convención real en vez de forzar 48 páginas a la más pobre.
+2. El formato de entrada de `log.md` solo documentaba el prefijo `ingest`,
+   pero ya se usaban cinco tipos distintos y consistentes (`ingest`,
+   `profundización`, `LINT`, `corrección de schema`, `reorganización`). Se
+   generalizó el formato documentado y se agregó **PROFUNDIZACIÓN** como
+   cuarta operación formal en la sección "Operaciones" (antes solo INGEST,
+   QUERY, LINT) — releer una fuente ya ingerida con más alcance del que
+   tuvo su INGEST original, distinto de ingerir una fuente nueva.
+
+También se prolijó el diagrama ASCII de `wiki/` en "Estructura de `wiki/`",
+que tenía espaciado inconsistente entre entradas.

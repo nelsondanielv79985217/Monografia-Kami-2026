@@ -37,26 +37,31 @@ de las fuentes existentes, en vez de re-derivar todo desde cero en cada consulta
 
 ```
 wiki/
-  index.md         — catálogo de todas las páginas, por categoría
-  log.md            — registro cronológico append-only de ingests
-  obras/            — páginas de obras literarias analizadas
-  personas/         — autores, teóricas, personajes, la estudiante, el asesor
-  conceptos/        — categorías de análisis y marco teórico (rol femenino,
-                       autonomía, identidad, contexto histórico, realismo
-                       mágico, etc.) — solo conceptos con respaldo
-                       bibliográfico, no justificaciones propias del proyecto
-  monografia/        — estado del anteproyecto en sí: estructura, objetivos,
-                       ODS que lo respaldan, alertas metodológicas abiertas
-  bibliografia/      — una página por fuente académica de `Bibliografia/`,
-                       con resumen y datos de citación
+  index.md       — catálogo de todas las páginas, por categoría
+  log.md         — registro cronológico append-only de operaciones
+  obras/         — páginas de obras literarias analizadas
+  personas/      — autores, teóricas, personajes, la estudiante, el asesor
+  conceptos/     — categorías de análisis y marco teórico (rol femenino,
+                    autonomía, identidad, contexto histórico, realismo
+                    mágico, etc.) — solo conceptos con respaldo
+                    bibliográfico, no justificaciones propias del proyecto
+  monografia/    — estado del anteproyecto en sí: estructura, objetivos,
+                    ODS que lo respaldan, alertas metodológicas abiertas
+  bibliografia/  — una página por fuente académica de `Bibliografia/`,
+                    con resumen y datos de citación
 ```
 
 ## Convenciones de nombres
 
 - Archivos de página: `kebab-case-sin-acentos.md` (ASCII), aunque el título y
   contenido dentro sí llevan tildes normales en español.
-- Cada página empieza con un encabezado `# Título` y, si aplica, una línea de
-  metadatos: `**Categoría:** obra | persona | concepto | monografia | bibliografia`.
+- Cada página empieza con un encabezado `# Título` y una línea de metadatos:
+  `**Categoría:** obra | persona | concepto | monografía | bibliografía`
+  (con tilde, coincide con el nombre de la carpeta pero en español correcto).
+  Las páginas de `personas/` y `monografia/` agregan una aclaración entre
+  paréntesis, ej. `persona (personaje)`, `persona (autor)`,
+  `persona (referente teórica)`, `monografía (estado del proyecto)` — esto
+  es la convención real en las 48 páginas existentes, no una excepción.
 - Los links entre páginas usan rutas relativas dentro de `wiki/`, ej.
   `[Como agua para chocolate](../obras/como-agua-para-chocolate.md)`.
 - Lo que una fuente no aclara se marca explícitamente como **[incierto]** en la
@@ -67,7 +72,11 @@ wiki/
 - **`index.md`**: catálogo de todas las páginas, organizado por categoría, con
   link y resumen de una línea por página. Se actualiza en cada ingest.
 - **`log.md`**: registro cronológico, append-only. Cada entrada con el prefijo
-  `## [YYYY-MM-DD] ingest | Nombre de la fuente` para poder grepearlo después.
+  `## [YYYY-MM-DD] <tipo> | <descripción corta>` para poder grepearlo
+  después. `<tipo>` es una de las operaciones de la sección siguiente
+  (`ingest`, `profundización`, `LINT`) u otro tipo de evento de
+  mantenimiento del propio schema/wiki cuando aplique (`corrección de
+  schema`, `reorganización`) — no solo `ingest`.
 
 ## Operaciones
 
@@ -82,6 +91,18 @@ wiki/
 - **LINT**: revisión de la wiki en busca de contradicciones entre páginas,
   afirmaciones desactualizadas, páginas huérfanas sin links entrantes,
   conceptos mencionados sin página propia, y cross-references faltantes.
+  Puede pedirse sobre el contenido de la wiki o sobre este mismo archivo de
+  schema (verificar que las convenciones declaradas coincidan con la
+  práctica real).
+- **PROFUNDIZACIÓN**: releer una fuente ya ingerida con más detalle o
+  alcance del que tuvo su INGEST original (por ejemplo, un primer INGEST
+  que solo cubrió el capítulo 1 de una novela, seguido de una
+  PROFUNDIZACIÓN que lee la obra completa). A diferencia de INGEST, no
+  introduce una fuente nueva — corrige y expande páginas existentes.
+  **Riesgo particular a vigilar**: una PROFUNDIZACIÓN casi siempre deja
+  atrás páginas relacionadas que no se tocaron en la pasada (personajes o
+  conceptos secundarios ya creados antes, con contenido desactualizado) —
+  conviene cerrar cada PROFUNDIZACIÓN con un LINT.
 
 ## Estilo de trabajo
 
