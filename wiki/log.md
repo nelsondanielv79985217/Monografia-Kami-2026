@@ -464,3 +464,36 @@ evolucionado y el texto del schema se quedó atrás):
 
 También se prolijó el diagrama ASCII de `wiki/` en "Estructura de `wiki/`",
 que tenía espaciado inconsistente entre entradas.
+
+## [2026-08-30] entrega | Monografia Maria Kamila Vega version 2.docx
+
+A pedido del usuario: se produjo una nueva versión completa del anteproyecto
+(`Monografia Maria Kamila Vega version 2.docx`, en la raíz del repo, fuera
+de `wiki/`), partiendo del contenido ya mejorado de las dos revisiones
+(Introducción, Justificación, Planteamiento, Objetivos) e incorporando las
+15 fuentes académicas de `Bibliografia/`. Decisiones tomadas, confirmadas
+por el usuario de antemano:
+
+- Se escribió un **Marco Teórico** nuevo desde cero (cinco subsecciones),
+  reemplazando el contenido de relleno sobre maltrato animal.
+- Se redactó una sección de **Hipótesis** y una de **Alcances y límites**,
+  que antes solo existían como encabezados vacíos.
+- Se resolvieron con criterio propio, documentando la decisión dentro del
+  mismo documento: el título investigativo (se adoptó la reformulación del
+  asesor sin población, dejando constancia de que la población ya aparece
+  en intro/objetivos/pregunta), la cita no verificable de "Fernanda (2021)"
+  (retirada), y la aplicación de comillas en títulos de obras (extendida a
+  todo el documento). Ninguna de estas decisiones reemplaza la confirmación
+  del asesor real — quedan documentadas como propuesta razonada.
+- Dos alertas quedan explícitamente abiertas en el documento (sección
+  "Alcances y límites"): faltan los datos editoriales de "El segundo sexo"
+  y de "Como agua para chocolate".
+
+Actualizada `monografia/alertas-metodologicas.md` con el estado de cada
+punto tras esta entrega (1 refutada, 4 resueltas en v2, 2 abiertas).
+
+**[incierto]**: el documento no se generó a partir de un template de Word
+existente (no había ninguno disponible), sino con la librería `docx` de
+Node.js siguiendo una estructura académica estándar — el formato visual
+(fuente, tamaños, portada) es una propuesta razonable, no una plantilla
+oficial del colegio.

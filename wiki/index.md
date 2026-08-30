@@ -46,7 +46,7 @@ Catálogo de todas las páginas de la wiki, por categoría. Se actualiza en cada
 ## Monografía (estado del proyecto)
 
 - [Estado del anteproyecto](monografia/anteproyecto.md) — estructura del documento, título investigativo (tres versiones), marco teórico pendiente de reemplazo.
-- [Alertas metodológicas](monografia/alertas-metodologicas.md) — 7 observaciones críticas; 6 abiertas, 1 (vacío de fuentes sobre Las travesías) **refutada** tras verificar la fuente primaria.
+- [Alertas metodológicas](monografia/alertas-metodologicas.md) — 7 observaciones críticas: 1 refutada (vacío de fuentes sobre Las travesías), 4 con propuesta de resolución en la versión 2 del documento, 2 abiertas (datos editoriales de Beauvoir y Esquivel).
 - [ODS 4 y 5](monografia/ods-4-y-5.md) — Objetivos de Desarrollo Sostenible que respaldan la investigación; movida desde `conceptos/`.
 
 ## Bibliografía

@@ -1,20 +1,28 @@
-# Alertas metodológicas (6 abiertas, 1 refutada)
+# Alertas metodológicas (1 refutada, 4 resueltas en v2, 2 abiertas — faltan datos editoriales)
 
 **Categoría:** monografía (estado del proyecto)
 
 Observaciones críticas identificadas en la revisión de Introducción,
 Justificación, Planteamiento del Problema y Objetivos, hechas por
 [el asesor](../personas/asesor.md) / en el proceso de revisión de
-[María Kamila Vega Correa](../personas/maria-kamila-vega-correa.md). Estado
-por punto: 1, 2, 3, 5, 6 y 7 siguen abiertas; el punto 4 fue **refutado**
-tras ingerir la fuente primaria correspondiente (ver abajo).
+[María Kamila Vega Correa](../personas/maria-kamila-vega-correa.md).
 
-## 1. Cita de "Fernanda (2021)" sin verificar
+**Actualización (2026-08-30)**: a pedido del usuario, se produjo
+`Monografia Maria Kamila Vega version 2.docx` —una nueva versión completa
+del anteproyecto, partiendo de las revisiones, con marco teórico nuevo y
+resolviendo estas alertas con mejor criterio propio—. Las resoluciones
+propuestas ahí **no reemplazan la confirmación del asesor real**; quedan
+documentadas como propuesta razonada, punto por punto, abajo.
+
+## 1. Cita de "Fernanda (2021)" sin verificar — **resuelta en v2: cita retirada**
 
 Citada en el resumen de la plantilla. Corresponde a una tesis de la
 Universidad del Cauca que **no está entre los documentos cargados al
 proyecto** (no aparece en `Bibliografia/`). No puede verificarse su página
-exacta. **Pendiente**: subir el documento o retirar la cita.
+exacta. **Resolución en v2**: se retiró la cita del resumen (no se reemplazó
+por una alternativa inventada); se documentó la decisión en el propio
+documento. Sigue **pendiente** subir el documento original si se quiere
+recuperar la cita en el futuro.
 
 ## 2. Paginación y edición de "Como agua para chocolate" sin identificar
 
@@ -68,20 +76,29 @@ reseña académica (Pareja Díaz, 2024)... Esa reseña menciona a los personajes
 femeninos Mercedes y Carmela solo de paso, en la fundación del linaje, sin
 desarrollar su rol, autonomía ni identidad."*
 
-## 5. Comillas en títulos de obras literarias — aplicación parcial
+## 5. Comillas en títulos de obras literarias — **resuelta en v2: aplicada de forma consistente**
 
-Regla del asesor: "las obras literarias siempre van entre comillas". Aplicada
-en Introducción, Justificación, Planteamiento del Problema y Objetivos.
-**Pendiente**: extender a portada, resumen, marco teórico y bibliografía.
+Regla del asesor: "las obras literarias siempre van entre comillas". Estaba
+aplicada solo en Introducción, Justificación, Planteamiento del Problema y
+Objetivos. **Resolución en v2**: se extendió la regla a todas las secciones
+del documento nuevo (resumen, marco teórico, alcances y límites), incluidas
+las citas de las nuevas fuentes bibliográficas.
 
-## 6. Contenido ajeno en "MARCO TEÓRICO"
+## 6. Contenido ajeno en "MARCO TEÓRICO" — **resuelta en v2: marco teórico nuevo**
 
-Confirmado también en la revisión: la sección conserva un ejemplo sobre
+Confirmado también en la revisión: la sección conservaba un ejemplo sobre
 maltrato animal que no corresponde al tema de la monografía (ver
 [Estado del anteproyecto](anteproyecto.md#marco-teórico-contenido-pendiente-de-reemplazo)).
-**Pendiente**: sustituir por completo.
+**Resolución en v2**: se reemplazó por completo con un marco teórico nuevo
+en cinco subsecciones (rol femenino como construcción social e histórica;
+símbolos y espacios de la representación femenina; escritura femenina y
+crítica literaria feminista; violencia de género y contexto colombiano en
+la narrativa; marco de referencia para el componente cuantitativo),
+construido a partir de las fuentes académicas de `Bibliografia/` — ver
+[Rol femenino](../conceptos/rol-femenino.md) para el respaldo de cada fuente
+usada en la wiki.
 
-## 7. Tensión entre el título investigativo y la instrucción de incluir la población
+## 7. Tensión entre el título investigativo y la instrucción de incluir la población — **resuelta en v2, con decisión documentada**
 
 [El asesor](../personas/asesor.md) pidió, en una nota, incluir la población
 (Colegio Miguel Antonio Caro) en el título, la introducción y los objetivos;
@@ -97,7 +114,15 @@ y dejó como variante, si el asesor prefiere incluir la población:
 > 'Como agua para chocolate' y 'Las travesías': un análisis comparativo en
 > estudiantes de 9.º y 10.º del Colegio Miguel Antonio Caro."
 
-**Pendiente**: confirmar con el asesor cuál queda como definitiva.
+**Resolución en v2**: se adoptó la reformulación explícita del asesor (sin
+población) como título investigativo formal, por ser la que él mismo validó
+como "bien sintetizada" — la instrucción de incluir la población se
+satisface igualmente porque esta ya aparece de forma explícita en la
+Introducción, la Situación problema, la Pregunta problema y los Objetivos.
+La decisión y su razonamiento quedaron documentados dentro del propio
+documento (nota editorial bajo el título) para que el asesor la confirme o
+la ajuste — **no se considera una resolución definitiva sin su visto
+bueno**.
 
 ## Referencias
 
