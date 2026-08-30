@@ -396,3 +396,42 @@ Esther, Fidelito, Martín, Manuel, Jorge, Jairo, Crucito) se mencionan en
 tienen página propia — se priorizaron los personajes femeninos y los
 directamente relevantes para el eje de la monografía, dado el volumen total
 de personajes de la novela.
+
+## [2026-08-28] LINT | segunda pasada, tras la profundización de ambas novelas
+
+**Página huérfana encontrada y reparada**: `personas/luz-del-amanecer.md`
+se mencionaba por nombre en cuatro páginas
+(`personas/john-brown.md`, `personas/tita.md`,
+`obras/como-agua-para-chocolate.md` ×2, `conceptos/realismo-magico.md`) pero
+ninguna la enlazaba como página de wiki — quedaba solo listada en
+`index.md`. Corregidos los cinco enlaces.
+
+**Afirmación desactualizada corregida**: `conceptos/realismo-magico.md`
+seguía diciendo, en su sección sobre *Las travesías*, que solo se habían
+leído los capítulos 1 y 2 — desactualizado tras la lectura completa de la
+novela. Se confirmó y documentó la conclusión (no hay realismo mágico en
+ningún capítulo de *Las travesías*, a diferencia de *Como agua para
+chocolate*), añadiendo el contraste con el caso límite de Carolina (su
+"comunicación" con su padre muerto se enmarca como síntoma de demencia, no
+como hecho sobrenatural objetivo). También se agregó un noveno episodio de
+realismo mágico que faltaba en el catálogo: el fantasma de Nacha encendiendo
+el último cirio en el desenlace.
+
+**Dos páginas de personajes de Como agua para chocolate quedaron
+desactualizadas** tras la lectura completa de la novela (creadas/editadas
+antes de la profundización, nunca revisadas después):
+- `personas/chencha.md`: le faltaba la violación que sufre en el ataque de
+  bandoleros (capítulo VII) y su matrimonio posterior con Jesús Martínez.
+- `personas/nacha.md`: le faltaba su aparición como fantasma en el
+  desenlace de la novela.
+
+Ambas corregidas. `monografia/alertas-metodologicas.md` (punto 4) también
+tenía una frase residual ("queda pendiente una lectura más completa... más
+allá del capítulo 1") que ya no aplicaba — actualizada.
+
+**Verificaciones sin hallazgos**: no se encontraron links rotos ni páginas
+huérfanas en las 48 páginas de contenido actuales. Se verificó consistencia
+de la revelación sobre José Treviño/Gertrudis entre `personas/mama-elena.md`,
+`personas/gertrudis.md`, `personas/tita.md` y `obras/como-agua-para-chocolate.md`
+— sin contradicciones. Se verificó que Carolina se identifica consistentemente
+como hija de Mercedes (no de Carmela) en todas las páginas que la mencionan.

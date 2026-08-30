@@ -55,9 +55,12 @@ desarrolla ampliamente a ambas hermanas — ver
 desbalanceado por falta de fuente primaria sobre *Las travesías* ya no es
 cierta con el estado actual del repositorio. No está claro si la revisión se
 hizo antes de que este PDF se subiera al proyecto, o si simplemente no fue
-consultado. Queda pendiente una lectura más completa de la novela (más allá
-del capítulo 1) para un análisis a fondo, pero la base textual **sí existe**
-y es comparable en extensión a [Como agua para chocolate](../obras/como-agua-para-chocolate.md).
+consultado. **Actualización (2026-08-28)**: se completó la lectura de los 7
+capítulos de la novela (no solo el capítulo 1); la base textual sobre el rol
+femenino resultó ser extensa y central a la obra —no un dato periférico—,
+comparable en profundidad a [Como agua para chocolate](../obras/como-agua-para-chocolate.md).
+Ver [Las travesías](../obras/las-travesias.md) para el resumen completo por
+capítulo.
 
 **Original de la observación (revisión, ya no vigente)**: *"El proyecto no
 contiene el texto completo de la novela de Gilmer Mesa, sino únicamente una

@@ -14,7 +14,8 @@ manicomio), se la lleva a vivir a su casa para cuidarla. Viudo, padre de
 
 Nieto de una mujer kikapú, apodada despectivamente "la kikapú" por la
 familia Brown, a quien su abuelo raptó y llevó a vivir con él. Ella —cuyo
-nombre real era "Luz del amanecer"— se convirtió en curandera reconocida
+nombre real era [Luz del amanecer](luz-del-amanecer.md)— se convirtió en
+curandera reconocida
 tras salvar la vida del bisabuelo de John con medicina tradicional. John
 heredó de ella su interés por la medicina no convencional y mantiene un
 laboratorio en el patio trasero de su casa, antiguo espacio de su abuela.
@@ -29,7 +30,8 @@ explica, en el desenlace de la novela, la muerte de
 
 Antes de saber quién era, Tita visita repetidamente en el laboratorio a una
 anciana de rasgos indígenas que cocina con ella sin hablar — es el fantasma
-de "Luz del amanecer". Ver [Realismo mágico](../conceptos/realismo-magico.md).
+de [Luz del amanecer](luz-del-amanecer.md). Ver
+[Realismo mágico](../conceptos/realismo-magico.md).
 
 ## Compromiso con Tita — roto
 

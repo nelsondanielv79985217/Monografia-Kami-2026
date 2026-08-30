@@ -41,7 +41,7 @@ Catálogo de todas las páginas de la wiki, por categoría. Se actualiza en cada
 
 - [Rol femenino](conceptos/rol-femenino.md) — concepto central de la monografía, dimensiones de análisis.
 - [Contexto histórico de las obras](conceptos/contexto-historico-de-las-obras.md) — Revolución mexicana vs. casi un siglo de conflicto colombiano (La Violencia a la masacre de El Aro).
-- [Realismo mágico](conceptos/realismo-magico.md) — catálogo completo de 8 episodios en Como agua para chocolate; ausente hasta ahora en Las travesías.
+- [Realismo mágico](conceptos/realismo-magico.md) — catálogo completo de 9 episodios en Como agua para chocolate; ausente por completo en Las travesías (dato relevante para el contraste).
 
 ## Monografía (estado del proyecto)
 

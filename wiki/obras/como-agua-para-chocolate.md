@@ -95,7 +95,7 @@ sobrenatural de Tita, el tornado de gallinas, los chiles en nogada finales).
    rancho y Mamá Elena la enfrenta armada.
 6. **Recuperación en casa de John** (VI): John lleva a Tita a vivir con él
    en vez de internarla. Ahí, muda por meses, recibe la visita del fantasma
-   de la abuela india de John, "Luz del amanecer", y aprende de John la
+   de la abuela india de John, [Luz del amanecer](../personas/luz-del-amanecer.md), y aprende de John la
    teoría de los "cerillos" y el alma —la misma que explicará el desenlace.
 7. **Tita recupera el habla** (VII): un caldo de colita de res de Chencha
    le devuelve el habla. Se compromete con John. Esa noche, bandoleros
@@ -117,7 +117,7 @@ sobrenatural de Tita, el tornado de gallinas, los chiles en nogada finales).
    Pedro. Cuando Tita finalmente desafía y hace desaparecer al fantasma, los
    síntomas ceden — nunca estuvo embarazada. El espíritu de Mamá Elena,
    furioso, causa la explosión de un quinqué que quema gravemente a Pedro;
-   Tita lo cuida usando remedios de "Luz del amanecer".
+   Tita lo cuida usando remedios de [Luz del amanecer](../personas/luz-del-amanecer.md).
 10. **El pacto de veinte años** (XI): Tita y Pedro mantienen en secreto su
     relación, con la complicidad tácita de Rosaura, durante dos décadas:
     Tita se encarga de alimentar a Esperanza, Rosaura de su educación. Una

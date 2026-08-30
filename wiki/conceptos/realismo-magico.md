@@ -27,10 +27,11 @@ completo de episodios verificados:
 - **La lactancia sobrenatural** (cap. "IV. Abril"): Tita, sin haber estado
   nunca embarazada, logra amamantar a su sobrino [Roberto](../personas/roberto.md)
   cuando muere la nodriza que lo alimentaba.
-- **El fantasma de "Luz del amanecer"** (cap. "VI. Junio"): la abuela
-  fallecida de [John Brown](../personas/john-brown.md), curandera kikapú, se
-  le aparece a Tita en el laboratorio de John, cocinando en silencio junto a
-  ella, antes de que sepa quién es.
+- **El fantasma de [Luz del amanecer](../personas/luz-del-amanecer.md)**
+  (cap. "VI. Junio"): la abuela fallecida de
+  [John Brown](../personas/john-brown.md), curandera kikapú, se le aparece
+  a Tita en el laboratorio de John, cocinando en silencio junto a ella,
+  antes de que sepa quién es.
 - **El fantasma de Mamá Elena y el embarazo psicosomático** (cap. "IX–X"):
   tras su muerte, el fantasma de [Mamá Elena](../personas/mama-elena.md)
   atormenta a Tita; mientras la persigue, Tita presenta síntomas de un
@@ -46,6 +47,11 @@ completo de episodios verificados:
   el platillo de Tita provoca en todos los invitados el mismo efecto
   afrodisíaco que las codornices del capítulo III, y la fiesta se disuelve
   en una desbandada de deseo colectivo.
+- **El fantasma de [Nacha](../personas/nacha.md)** (cap. "XII", desenlace):
+  en la noche en que Tita y Pedro finalmente pueden amarse en libertad, el
+  fantasma de Nacha enciende en silencio el último de 250 cirios que
+  decoran el antiguo "cuarto oscuro", ya transformado, sin que ninguno de
+  los dos la note.
 - **La muerte de Tita y Pedro** (cap. "XII", desenlace): retomando la teoría
   de los "cerillos" que [John Brown](../personas/john-brown.md) le explicó
   a Tita en el capítulo VI (cada persona lleva cerillos internos que solo el
@@ -77,11 +83,20 @@ directamente de ninguna de ellas.
 
 ## En Las travesías
 
-**[incierto]**: no se ha identificado hasta ahora ningún elemento de
-realismo mágico en la lectura hecha de
-[Las travesías](../obras/las-travesias.md) (capítulos 1 y 2) — la novela de
-Gilmer Mesa parece inscribirse en un registro más testimonial/realista.
-Pendiente de confirmar con una lectura más completa.
+**Actualizado (2026-08-28, tras leer los 7 capítulos completos)**: no se
+identificó ningún elemento de realismo mágico en toda la novela. A
+diferencia de *Como agua para chocolate*, [Las travesías](../obras/las-travesias.md)
+se inscribe en un registro testimonial/realista, incluso en sus momentos
+más extremos (masacres, tortura, mutilación) — se narran como hechos
+históricos crudos, no mediados por lo sobrenatural. El caso límite es
+[Carolina](../personas/carolina-las-travesias.md), que cree "hablar" con su
+padre muerto y sentirse guiada por él: el texto lo enmarca explícitamente
+como un síntoma de su demencia (una experiencia subjetiva), no como un
+hecho objetivamente sobrenatural dentro del mundo narrado — lo opuesto al
+fantasma de Mamá Elena en *Como agua para chocolate*, que sí tiene efectos
+físicos verificables (hace estallar un quinqué, causa un embarazo
+psicosomático). Esta ausencia de realismo mágico es en sí misma un dato
+relevante para el análisis comparativo de la monografía.
 
 ## Referencias
 

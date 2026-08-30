@@ -40,7 +40,7 @@ Tras la muerte de Roberto en San Antonio, Texas, sufre una crisis nerviosa;
 Mamá Elena ordena internarla en un manicomio, pero
 [John Brown](john-brown.md) la lleva a vivir con él. Pasa meses sin hablar,
 comunicándose por escrito. En el laboratorio de John recibe la visita del
-fantasma de la abuela de este, "Luz del amanecer", y aprende de John la
+fantasma de la abuela de este, [Luz del amanecer](luz-del-amanecer.md), y aprende de John la
 teoría de los "cerillos" y el alma que explicará más tarde su propia muerte.
 Recupera el habla al probar un caldo de colita de res que le trae Chencha,
 tras seis meses de mutismo.
