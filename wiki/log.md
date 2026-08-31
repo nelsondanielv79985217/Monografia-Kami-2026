@@ -540,3 +540,39 @@ autorización, se publicó. Enlace para compartir con los estudiantes:
 
 Actualizada `monografia/encuesta.md` con el estado nuevo (formulario
 construido y publicado) y el enlace.
+
+## [2026-08-30] entrega | Monografia Maria Kamila Vega version 3.docx
+
+A pedido del usuario ("vamos a crear la versión tres escondiendo las notas
+editoriales y retirando la referencia de pareja de la reseña que no está en
+la bibliografía"): se produjo `Monografia Maria Kamila Vega version 3.docx`,
+partiendo del contenido de la v2 con dos cambios puntuales:
+
+- Se retiraron del cuerpo del documento las 6 notas editoriales en cursiva
+  (`noteBox`) que la v2 usaba para explicar decisiones tomadas durante su
+  redacción (Resumen, Título investigativo, Hipótesis, Marco teórico,
+  Alcances y límites, Bibliografía). Su contenido no se perdió: quedó
+  documentado en `monografia/alertas-metodologicas.md`, su lugar natural en
+  la wiki.
+- Se retiró por completo la cita y la entrada bibliográfica de Pareja Díaz
+  (2024) — reseña que nunca estuvo entre los PDF de `Bibliografia/` y no fue
+  posible verificar contra la fuente original. Las tres oraciones que la
+  citaban para ubicar temporalmente *Las travesías* (Introducción, Situación
+  problema, Objetivo general) se reescribieron apoyándose en cambio en la
+  lectura directa y ya verificada de la novela completa (Mesa, 2021), que
+  confirma de forma independiente el mismo marco histórico —de las guerras
+  liberal-conservadoras de inicios del siglo XX a la masacre de El Aro,
+  Antioquia, 1997.
+
+La bibliografía de la v3 queda en 15 entradas (antes 16). Verificado por
+round-trip con `pandoc -t markdown`: sin rastros de "Pareja" ni de las
+frases de las notas editoriales en el texto resultante; estructura completa
+intacta (Portada, Resumen, Introducción, Justificación, Planteamiento del
+problema, Hipótesis, Objetivos, ODS, Enfoque, Marco teórico con sus 5
+subsecciones, Alcances y límites, Bibliografía).
+
+Actualizada `monografia/alertas-metodologicas.md` (puntos 4 y 7, y nota de
+cabecera) y `monografia/anteproyecto.md` con el estado de la v3.
+
+**[incierto]**: igual que con la v2, la generación es programática (librería
+`docx` de Node.js), no a partir de una plantilla oficial del colegio.

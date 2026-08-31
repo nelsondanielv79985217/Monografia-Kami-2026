@@ -1,4 +1,4 @@
-# Alertas metodológicas (1 refutada, 4 resueltas en v2, 2 abiertas — faltan datos editoriales)
+# Alertas metodológicas (1 refutada, 4 resueltas en v2 y depuradas en v3, 2 abiertas — faltan datos editoriales)
 
 **Categoría:** monografía (estado del proyecto)
 
@@ -13,6 +13,22 @@ del anteproyecto, partiendo de las revisiones, con marco teórico nuevo y
 resolviendo estas alertas con mejor criterio propio—. Las resoluciones
 propuestas ahí **no reemplazan la confirmación del asesor real**; quedan
 documentadas como propuesta razonada, punto por punto, abajo.
+
+**Actualización (2026-08-30) — versión 3**: a pedido del usuario, se produjo
+`Monografia Maria Kamila Vega version 3.docx`, partiendo de la v2 con dos
+cambios puntuales: (a) se retiraron del cuerpo del documento las notas
+editoriales en cursiva que explicaban decisiones tomadas en la v2 (quedan
+documentadas igual en esta página de la wiki, que es su lugar natural); (b)
+se retiró por completo la cita y la entrada bibliográfica de Pareja Díaz
+(2024) — ver el detalle en el punto 4 — porque esa reseña no está entre los
+PDF de `Bibliografia/` ni fue posible verificarla contra la fuente
+original. Las tres oraciones que citaban a Pareja Díaz para ubicar
+temporalmente *Las travesías* (Introducción, Situación problema, Objetivo
+general) se reescribieron citando en su lugar la lectura directa de la
+novela (Mesa, 2021), que ya confirma de forma independiente el mismo marco
+histórico (de las guerras liberal-conservadoras de inicio del siglo XX a la
+masacre de El Aro, 1997) — ver
+[Contexto histórico de las obras](../conceptos/contexto-historico-de-las-obras.md).
 
 ## 1. Cita de "Fernanda (2021)" sin verificar — **resuelta en v2: cita retirada**
 
@@ -70,6 +86,15 @@ comparable en profundidad a [Como agua para chocolate](../obras/como-agua-para-c
 Ver [Las travesías](../obras/las-travesias.md) para el resumen completo por
 capítulo.
 
+**Actualización (2026-08-30) — versión 3**: dado que la novela completa ya
+está disponible y verificada como fuente primaria, la reseña de Pareja Díaz
+(2024) —que nunca estuvo entre los PDF de `Bibliografia/` y no pudo
+verificarse— dejó de ser necesaria incluso para el dato puntual que todavía
+citaba (la ubicación temporal de la novela "en el marco de la guerra
+bipartidista"). En `Monografia Maria Kamila Vega version 3.docx` se retiró
+esa cita y la entrada bibliográfica correspondiente; el mismo dato ahora se
+respalda directamente en la lectura de la novela (Mesa, 2021).
+
 **Original de la observación (revisión, ya no vigente)**: *"El proyecto no
 contiene el texto completo de la novela de Gilmer Mesa, sino únicamente una
 reseña académica (Pareja Díaz, 2024)... Esa reseña menciona a los personajes
@@ -120,9 +145,12 @@ como "bien sintetizada" — la instrucción de incluir la población se
 satisface igualmente porque esta ya aparece de forma explícita en la
 Introducción, la Situación problema, la Pregunta problema y los Objetivos.
 La decisión y su razonamiento quedaron documentados dentro del propio
-documento (nota editorial bajo el título) para que el asesor la confirme o
-la ajuste — **no se considera una resolución definitiva sin su visto
-bueno**.
+documento de la v2 (nota editorial bajo el título) para que el asesor la
+confirme o la ajuste — **no se considera una resolución definitiva sin su
+visto bueno**. En `Monografia Maria Kamila Vega version 3.docx` esa nota
+editorial se retiró del cuerpo del texto (junto con el resto de las notas
+editoriales de la v2); la decisión y su razonamiento quedan documentados
+acá, no dentro del documento entregable.
 
 ## Referencias
 

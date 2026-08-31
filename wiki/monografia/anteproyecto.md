@@ -7,12 +7,15 @@ se encuentra en el repo. Autora:
 [María Kamila Vega Correa](../personas/maria-kamila-vega-correa.md).
 
 **Actualización (2026-08-30)**: esta página describe el estado de la
-**versión 1** del documento. Ya existe una **versión 2**
+**versión 1** del documento. Existen ya una **versión 2**
 (`Monografia Maria Kamila Vega version 2.docx`, raíz del repo) que resuelve
-varios de los puntos descritos abajo (título, marco teórico, bibliografía) —
-ver [Alertas metodológicas](alertas-metodologicas.md) para el detalle punto
-por punto de qué se resolvió y qué sigue abierto. También se redactó el
-instrumento para el componente cuantitativo — ver
+varios de los puntos descritos abajo (título, marco teórico, bibliografía),
+y una **versión 3** (`Monografia Maria Kamila Vega version 3.docx`) que
+parte de la v2 retirando del cuerpo del texto las notas editoriales en
+cursiva y la referencia no verificable de Pareja Díaz (2024) — ver
+[Alertas metodológicas](alertas-metodologicas.md) para el detalle punto por
+punto de qué se resolvió, qué se depuró en v3 y qué sigue abierto. También
+se redactó y publicó el instrumento para el componente cuantitativo — ver
 [Encuesta a estudiantes de 9.° y 10.°](encuesta.md).
 
 ## Estructura presente en el documento
