@@ -3,11 +3,14 @@
 **Categoría:** bibliografía
 
 PDF: `Bibliografia/El segundo sexo.pdf`. Texto completo (~24.000 líneas
-extraídas), en castellano, sin datos de editorial ni traductor identificados
-en el archivo — ver
+extraídas), en castellano. El archivo no identifica editorial ni traductor;
+el año de edición (2017) y el traductor (A. Martorell) fueron aportados
+directamente por la autora (2026-08-30), no verificados de forma
+independiente contra el PDF — ver
 [Simone de Beauvoir](../personas/simone-de-beauvoir.md) y
 [Alertas metodológicas, punto 3](../monografia/alertas-metodologicas.md#3-edición-de-el-segundo-sexo-sin-identificar).
-Nota propia del texto: escrito entre 1948 y 1949.
+Nota propia del texto: escrito entre 1948 y 1949. Editorial de la edición de
+2017 aún sin identificar.
 
 ## Estructura verificada
 
@@ -39,5 +42,7 @@ las dos citas ya usadas.
 
 ## Referencias
 
-- Beauvoir, S. de. (1948-1949). *El segundo sexo*. **[incierto]**: editorial
-  y traductor no identificados en `Bibliografia/El segundo sexo.pdf`.
+- Beauvoir, S. de. (1949/2017). *El segundo sexo* (A. Martorell, Trad.).
+  **[incierto]**: editorial no identificada en `Bibliografia/El segundo
+  sexo.pdf`; año y traductor aportados por la autora, no verificados
+  independientemente contra el archivo.

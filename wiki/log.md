@@ -607,3 +607,37 @@ formato o si se perdió por accidente; no se restituyó sin confirmar con
 ella. La alerta sigue documentada y abierta en
 [Alertas metodológicas](monografia/alertas-metodologicas.md), esté o no en
 el cuerpo del documento entregable.
+
+## [2026-08-30] corrección | dato editorial de Beauvoir (2017, A. Martorell) aportado por la autora
+
+A pedido de la autora, se actualizó la referencia de "El segundo sexo" en
+`Monografia Maria Kamila Vega version 3.docx` con año de edición **2017**
+y traductor **A. Martorell**, datos que ella aportó directamente (no
+verificados de forma independiente por este asistente contra
+`Bibliografia/El segundo sexo.pdf`, que no los incluye). Se actualizaron
+las 4 citas narrativas de Beauvoir en el cuerpo del texto de "(1949)" a
+"(1949/2017)" (formato APA 7 para obras traducidas: año de publicación
+original / año de la edición traducida citada) y la entrada bibliográfica
+a "Beauvoir, S. de. (1949/2017). *El segundo sexo* (A. Martorell, Trad.)".
+La editorial de esta edición de 2017 sigue sin identificarse. Edición
+aplicada sobre el XML del `.docx`, igual que la pasada de humanizer
+anterior — se verificó con `pandoc -t markdown` que las 5 apariciones
+(4 citas + bibliografía) quedaron actualizadas correctamente.
+
+Actualizadas `personas/simone-de-beauvoir.md`,
+`bibliografia/el-segundo-sexo.md` y `monografia/alertas-metodologicas.md`
+(punto 3: de "confirmado, abierto" a "parcialmente resuelto" — año y
+traductor identificados, editorial sigue pendiente).
+
+**Pedido no completado — sin herramienta para hacerlo**: la autora también
+pidió actualizar las citas usando el gestor bibliográfico Mendeley
+instalado en Word (usuario mariakamilavegacorrea@gmail.com). Se inspeccionó
+el `.docx` y se confirmó que tiene registrado el complemento Mendeley Cite
+(estilo APA 7.ª edición, configurado, pero con `MENDELEY_CITATIONS: []` —
+sin citas insertadas todavía a través de él). Este asistente no tiene forma
+de operar la interfaz de Word ni de iniciar sesión en Mendeley (requeriría
+automatización de escritorio y credenciales que este asistente no maneja);
+en su lugar, se aplicó la misma corrección directamente sobre el texto del
+documento, con el mismo resultado visual. Si la autora quiere que las citas
+queden vinculadas de forma dinámica a su biblioteca de Mendeley, debe
+insertarlas ella misma desde el panel de Mendeley Cite en Word.

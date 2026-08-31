@@ -25,15 +25,25 @@ social e histórica.
 Ambas páginas citadas (7 y 109) coinciden exactamente con la paginación
 impresa en el propio PDF — la cita de la monografía es correcta.
 
-## Dato pendiente
+## Dato editorial — actualizado por la autora (2026-08-30)
 
-**[incierto]**: el PDF no identifica editorial ni traductor de esta edición
-en castellano; solo indica, en nota propia del texto, que la obra "ha sido
-escrita durante los años 1948-1949". Se buscó explícitamente en el archivo
-(términos "traductor", "editorial", "ISBN") sin encontrar esos datos. Ver
+El PDF no identifica editorial ni traductor de esta edición en castellano;
+solo indica, en nota propia del texto, que la obra "ha sido escrita durante
+los años 1948-1949". Se buscó explícitamente en el archivo (términos
+"traductor", "editorial", "ISBN") sin encontrar esos datos.
+
+**Dato aportado directamente por la autora**: edición de **2017**, traducción
+de **A. Martorell** (Alicia Martorell). Este dato no fue verificado de forma
+independiente contra el PDF por este asistente — se incorporó por instrucción
+explícita de
+[María Kamila Vega Correa](maria-kamila-vega-correa.md). Con año y traductor
+ya identificados, la referencia de la monografía pasa a citarse como
+"Beauvoir (1949/2017)" (año de escritura original / año de la edición
+traducida consultada), formato estándar de APA 7 para obras traducidas. Sigue
+sin identificarse la **editorial** de esta edición. Ver
 [Alertas metodológicas, punto 3](../monografia/alertas-metodologicas.md#3-edición-de-el-segundo-sexo-sin-identificar) —
-la observación de la revisión sobre este vacío queda **confirmada**, no
-refutada (a diferencia del punto 4 sobre *Las travesías*).
+la observación de la revisión sobre este vacío queda **parcialmente
+resuelta**: traductor y año sí se identificaron, editorial sigue pendiente.
 
 Ver la página de bibliografía para estructura completa y datos de citación:
 [El segundo sexo](../bibliografia/el-segundo-sexo.md).

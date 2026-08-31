@@ -1,4 +1,4 @@
-# Alertas metodológicas (1 refutada, 4 resueltas en v2 y depuradas en v3, 2 abiertas — faltan datos editoriales)
+# Alertas metodológicas (1 refutada, 4 resueltas en v2 y depuradas en v3, 1 parcialmente resuelta, 1 abierta — falta editorial de Esquivel y de Beauvoir 2017)
 
 **Categoría:** monografía (estado del proyecto)
 
@@ -48,19 +48,27 @@ editorial. Se cita como (Esquivel, s. f.) usando el capítulo como ubicación
 en lugar de número de página. **Pendiente**: conseguir edición paginada o
 datos de colofón.
 
-## 3. Edición de "El segundo sexo" sin identificar — **confirmado, con precisión adicional (2026-08-28)**
+## 3. Edición de "El segundo sexo" sin identificar — **parcialmente resuelto (2026-08-30): traductor y año aportados por la autora**
 
 Verificado directamente contra `Bibliografia/El segundo sexo.pdf`: el
 archivo no incluye editorial, traductor ni año de edición de la versión
 digitalizada; solo una nota del propio texto indica que fue escrito entre
-1948 y 1949. **Dato nuevo**: las dos citas usadas en la monografía ("No se
-nace mujer: se llega a serlo", p. 109; "la mujer siempre ha sido... vasalla",
-p. 7) se verificaron palabra por palabra contra el PDF, y **ambos números de
-página coinciden exactamente** con la paginación impresa en el archivo — no
-son una aproximación. Solo falta el dato editorial/traductor, no la
-verificación de las citas. **Pendiente**: identificar editorial y traductor
-antes de la entrega final; si no se logra, decirlo explícitamente en la
-referencia (ver [Simone de Beauvoir](../personas/simone-de-beauvoir.md)).
+1948 y 1949. Las dos citas usadas en la monografía ("No se nace mujer: se
+llega a serlo", p. 109; "la mujer siempre ha sido... vasalla", p. 7) se
+verificaron palabra por palabra contra el PDF, y **ambos números de página
+coinciden exactamente** con la paginación impresa en el archivo — eso no
+cambia con esta actualización.
+
+**Actualización (2026-08-30)**: la autora aportó directamente el año de
+edición (**2017**) y el traductor (**A. Martorell**) — dato no verificado de
+forma independiente contra el PDF por este asistente, incorporado por
+instrucción explícita suya. En `Monografia Maria Kamila Vega version
+3.docx` la referencia y las cuatro citas narrativas de Beauvoir se
+actualizaron al formato APA 7 para obras traducidas: "Beauvoir (1949/2017)"
+en el texto, y "Beauvoir, S. de. (1949/2017). *El segundo sexo* (A.
+Martorell, Trad.)" en la bibliografía. **Sigue pendiente**: identificar la
+editorial de esta edición de 2017 (ver
+[Simone de Beauvoir](../personas/simone-de-beauvoir.md)).
 
 ## 4. Vacío de fuentes sobre el rol femenino en "Las travesías" — **REFUTADO por la fuente primaria (2026-08-28)**
 
