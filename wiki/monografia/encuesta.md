@@ -10,12 +10,20 @@ percepciones actuales de los estudiantes del Colegio Miguel Antonio Caro.
 
 ## Estado
 
-**Redactado (2026-08-30), no aplicado todavía.** Se entregó al usuario como
-`prompt-encuesta-forms.md` (raíz del repo) — un prompt listo para pegar en
-el generador de Google Forms u otra herramienta equivalente. Falta: crear
-el formulario real, aplicarlo a la población, y analizar los resultados
-(porcentajes, tablas y gráficos, según especifica la sección "Enfoque" de
-la monografía).
+**Formulario construido y publicado en Google Forms (2026-08-30).**
+Se redactó primero como `prompt-encuesta-forms.md` (raíz del repo) y luego
+se creó directamente en Google Forms, con las 4 secciones y las 20 preguntas
+exactas del instrumento (tipos de pregunta, textos y obligatoriedad
+verificados uno a uno contra el diseño). La recolección automática de
+correo electrónico quedó desactivada ("No recoger"), preservando el
+anonimato. El formulario se publicó a pedido explícito de la autora —
+cualquier persona con el enlace ya puede responderlo.
+
+Enlace para compartir con los estudiantes:
+<https://docs.google.com/forms/d/e/1FAIpQLSeD_zHf1HbbvtJ8uF8T7mID80SLJRPHAua7t9-M9v4ZF2xBVg/viewform>
+
+Falta: aplicarlo a la población y analizar los resultados (porcentajes,
+tablas y gráficos, según especifica la sección "Enfoque" de la monografía).
 
 ## Estructura del instrumento
 

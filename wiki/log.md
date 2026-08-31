@@ -520,3 +520,23 @@ apuntando a la versión 2 del documento y a esta encuesta.
 asistente — el usuario debe pegar el prompt en la herramienta de generación
 de formularios de su preferencia y aplicarlo. El análisis de resultados
 (porcentajes, tablas, gráficos) queda pendiente hasta que se aplique.
+
+## [2026-08-30] entrega | Formulario de Google Forms creado directamente
+
+A pedido del usuario ("créala vos directo en Google Forms con el connector"),
+se construyó el formulario real en Google Forms (cuenta
+nelsondanielv123@gmail.com), en vez de solo entregar el prompt. Se crearon
+las 4 secciones y las 20 preguntas exactas de `prompt-encuesta-forms.md`,
+verificando uno a uno tipo de pregunta (varias opciones / escala lineal 1-5
+/ párrafo), texto y obligatoriedad contra el diseño original. Se desactivó
+la recolección automática de correo electrónico ("No recoger" en
+Configuración → Respuestas), preservando el anonimato exigido por el
+diseño del instrumento.
+
+Antes de publicarlo (acción que hace el formulario accesible a cualquier
+persona con el enlace) se confirmó explícitamente con la autora; con su
+autorización, se publicó. Enlace para compartir con los estudiantes:
+<https://docs.google.com/forms/d/e/1FAIpQLSeD_zHf1HbbvtJ8uF8T7mID80SLJRPHAua7t9-M9v4ZF2xBVg/viewform>
+
+Actualizada `monografia/encuesta.md` con el estado nuevo (formulario
+construido y publicado) y el enlace.
