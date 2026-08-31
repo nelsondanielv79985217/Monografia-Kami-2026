@@ -576,3 +576,34 @@ cabecera) y `monografia/anteproyecto.md` con el estado de la v3.
 
 **[incierto]**: igual que con la v2, la generación es programática (librería
 `docx` de Node.js), no a partir de una plantilla oficial del colegio.
+
+## [2026-08-30] corrección | lenguaje de version 3 más natural, tras ajustes de formato de la autora
+
+La autora hizo ajustes de forma en `Monografia Maria Kamila Vega version
+3.docx` directamente en Word (tipos de fuente y tamaños, además de un logo
+y una tabla de contenido nuevos). A pedido suyo, se releyó el documento
+completo y se aplicó una pasada de "humanizer" sobre el texto para que
+sonara más natural y menos "de IA", sin tocar citas, referencias
+bibliográficas, ni la estructura de encabezados (para no desincronizar la
+tabla de contenido que ella agregó). Se editó directamente el XML interno
+del `.docx` ya modificado por la autora —no se regeneró desde los scripts
+de Node.js— para conservar íntegros sus cambios de formato.
+
+16 ajustes puntuales: se quitaron transiciones repetidas ("en este
+sentido" ×2, "por esta razón" ×2, "resulta pertinente"/"resulta
+especialmente relevante" ×3, "se retoma también" ×3, "en la misma línea"
+×2) variando la redacción entre apariciones, se simplificó una oración
+particularmente rígida ("con particular claridad..."), se completó el
+sujeto implícito de la frase de ODS 5, se cambiaron dos gerundios finales
+por verbos coordinados en los objetivos, y se corrigió una comilla curva
+suelta que había quedado de la edición manual, para que combinara con las
+comillas rectas usadas en el resto del documento.
+
+**Hallazgo durante la relectura, no corregido de oficio**: la última
+oración de "Límites" —la que documentaba que faltan los datos editoriales
+de "El segundo sexo" y de "Como agua para chocolate"— ya no está en el
+documento. No está claro si la autora la quitó a propósito al editar el
+formato o si se perdió por accidente; no se restituyó sin confirmar con
+ella. La alerta sigue documentada y abierta en
+[Alertas metodológicas](monografia/alertas-metodologicas.md), esté o no en
+el cuerpo del documento entregable.
